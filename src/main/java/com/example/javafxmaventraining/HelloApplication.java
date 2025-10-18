@@ -15,8 +15,5 @@ public class HelloApplication extends Application {
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
-        String f = "swag";
-        char s = f;
-        int x = f.length();
     }
 }
