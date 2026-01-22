@@ -1,0 +1,3 @@
+JFX-Calculator is a little Calculator app I developed to learn JavaFX and general app development.
+I added some custom things you may not see not a normal calculator such as a derrivative and integral button.
+Still a work in progress...
